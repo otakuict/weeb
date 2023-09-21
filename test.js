@@ -1,0 +1,10 @@
+import chalk from "chalk";
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
+console.log(chalk.green("PASS !"));
